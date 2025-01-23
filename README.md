@@ -1,4 +1,4 @@
-Datasets used in this project¶
+Datasets used in this project:
 
 Crowd-sourced Emotional Mutimodal Actors Dataset (Crema-D)
 Ryerson Audio-Visual Database of Emotional Speech and Song (Ravdess)
